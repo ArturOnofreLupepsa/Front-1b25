@@ -1,0 +1,24 @@
+body{
+    background-color: dimgrey   ;
+}
+#identificador{
+    color:blue;/*cor*/
+    text-align: center;/*alinhamento*/
+    font-size: 20px;
+    margin: 50px;
+}
+.classe{
+    background-color: blue;
+    color: green;
+    text-align: right;
+    padding: 30px;
+}
+.texto{
+    color: white;
+    line-height: 30px;
+    text-align: justify;
+    text-transform: capitalize;
+    font-weight: bold;
+    border: 1px solid red;
+    font-family: georgia, 'ti'
+}
