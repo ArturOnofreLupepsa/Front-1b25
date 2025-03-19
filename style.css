@@ -20,5 +20,13 @@ body{
     text-transform: capitalize;
     font-weight: bold;
     border: 1px solid red;
-    font-family: georgia, 'ti'
+    font-family: georgia, 'times new roman'
+}
+.produtos .item{
+    display: inline-block;   
+    padding: 10px;
+}
+.produtos{
+    text-align: center;
+    margin: 20px;
 }
